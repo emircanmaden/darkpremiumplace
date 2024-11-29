@@ -1,0 +1,50 @@
+{
+  "mute": [
+    {
+      "guild": "890533915020902420",
+      "guild_name": "Kuralsızlar Krallığı",
+      "user": "729340868200497214",
+      "user_name": "❃DenizAb",
+      "staff": "895656892200812605",
+      "staff_username": "MEE6",
+      "channel": "901213242003689562",
+      "channel_name": "「💬」genel-sohbet",
+      "reason": "yetki ver la",
+      "time": "bcde",
+      "finishtime": null
+    },
+    {
+      "guild": "847409421255704617",
+      "guild_name": "yokedici",
+      "user": "900030071769813013",
+      "user_name": "Zaes Châvo",
+      "staff": "821112434424152074",
+      "staff_username": "GM お ₪ »  MEHMETEREN14",
+      "channel": "898608533199814736",
+      "channel_name": "bot-komut",
+      "reason": "No Reason Given",
+      "time": "INFINITY",
+      "finishtime": "INFINITY"
+    },
+    {
+      "guild": "892793182654439424",
+      "guild_name": "Mutsuzluk Yuvası",
+      "user": "790660505789661194",
+      "user_name": "wâys?sakinolgöksu._.Saté?",
+      "staff": "833602028570935316",
+      "staff_username": "Abby💅'M",
+      "channel": "900070684032651314",
+      "channel_name": "「💬」genel-chat",
+      "reason": "No Reason Given",
+      "time": "ZAĞ",
+      "finishtime": null
+    }
+  ],
+  "ban": [],
+  "kufurEngel": [],
+  "autorole": [],
+  "reklamEngel": [],
+  "security": [],
+  "snipe": [],
+  "counter": []
+}

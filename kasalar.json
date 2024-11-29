@@ -1,0 +1,33 @@
+[
+	{
+		"isim": "Bronz Kasa",
+    "açıklama": "Paranız az ise kullanabileceğiniz bir kasa.",
+		"fiyat": "100",
+    "kasaid": "1"
+	},
+	{
+		"isim": "Demir Kasa",
+    "açıklama": "Oyunu yeni başladıysanız kullanabileceğiniz bir kasa.",
+		"fiyat": "500",
+    "kasaid": "2"
+	},
+	{
+		"isim": "Altın",
+    "açıklama": "Yüksek seviye bir kasa.",
+		"fiyat": "1000",
+    "kasaid": "3"
+	},
+	{
+		"isim": "Elmas Kasa",
+    "açıklama": "En iyi kasalardan biri.",
+		"fiyat": "2000",
+    "kasaid": "4"
+	},
+	{
+		"isim": "Elit Kasa",
+    "açıklama": "Üst düzey kasa.",
+		"fiyat": "3000",
+    "kasaid": "5"
+	}
+
+]
